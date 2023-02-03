@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/rasheedpri/node-mysql-crud-app/issues"
   },
-  "homepage": "https://github.com/rasheedpri/node-mysql-crud-app#readme"
+  "homepage": "https://github.com/rasheedpri/node-mysql-crud-app#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "mysql": "^2.18.1",
+    "req-flash": "0.0.3"
+  }
 }
